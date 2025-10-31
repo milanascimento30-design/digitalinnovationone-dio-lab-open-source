@@ -1,9 +1,18 @@
-### Well hello there!
+# Mila Stefanny Dias Nascimento
 
-This repository is meant to provide an example for *forking* a repository on GitHub.
+**Apple Developer Academy | Tech + Medicina | Cybersecurity & AI**
 
-Creating a *fork* is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
+- 🚀 Interesses: iOS/SwiftUI, IA/ML, Segurança Ofensiva & Blue Team
+- 🧭 Projetos: Jules (assistente pessoal), GuardianPatch (brand de ciber)
+- 🌍 Viagens & tech: beer em Berlim, tours de vinho 🇦🇹🇮🇹
 
-After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
+## Badges & Cards
+![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO)
 
-For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
+## Links
+- **DIO**: https://www.dio.me/
+- **Artigos DIO**: (seus links aqui)
+- **Projetos em destaque**: (seus repositórios)
+
+> “Me vi recomeçar — e fiz isso como ninguém.” ✨
